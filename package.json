@@ -1,0 +1,16 @@
+{
+  "name": "flurn_booking_service_backend",
+  "version": "1.0.0",
+  "description": "Booking service",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "user-service",
+    "provide"
+  ],
+  "author": "ismail",
+  "license": "MIT"
+}
