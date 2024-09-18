@@ -1,0 +1,1 @@
+import { seatModel } from "../Model/seatModel.js";

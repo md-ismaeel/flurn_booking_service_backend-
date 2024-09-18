@@ -1,0 +1,1 @@
+import { priceModel } from "../Model/priceModel";

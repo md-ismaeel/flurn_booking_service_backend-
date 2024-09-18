@@ -1,2 +1,3 @@
 # ignore the local inviroments
 .env
+node_modules
